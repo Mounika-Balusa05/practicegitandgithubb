@@ -6,4 +6,4 @@ This is my first git repository
 
  - 2/02/2026
     today i listend about restful api's
-    
+    listened to sql class in apna college
