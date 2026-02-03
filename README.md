@@ -13,4 +13,7 @@ This is my first git repository
     - today's tasks :: 
         - today i learnt how to connect sql with node.js.
         - had lot of confusion about choosing project.
-        - 
+        - finally choosen projects are
+            - 1. ai integrated road map generator with roadmaps and interview questions
+            - 2. dashboard project (fitness or fintech)
+            - 3. 
