@@ -19,3 +19,6 @@ This is my first git repository
             - 2. dashboard project (fitness or fintech)
             - 3. one javascript project (core)
             ## YOU SHOULD DO PORTFOLIO WEBSITE (DON'T FORGET)
+ - 4/02/2026
+     - today's tasks ::
+      - i have installed mongodb server and mongodb shell
