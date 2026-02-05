@@ -24,3 +24,7 @@ This is my first git repository
       - i have installed mongodb server and mongodb shell
       - i have learnt create , find ( read ) , update , delete.
       - moongose (1 second listened)
+ - 5/02/2026
+     - today is my birthday
+     - today i went to temple
+     - now im listening to mongoose class
