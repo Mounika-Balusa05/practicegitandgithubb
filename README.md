@@ -28,3 +28,9 @@ This is my first git repository
      - today is my birthday
      - today i went to temple
      - now im listening to mongoose class
+  - 6/02/2026
+     - Forgot to update
+     - got clarity about what project to do
+  - 7/02/2026
+     - Starting my day to practice a good full stack project called NOTES APP
+     
