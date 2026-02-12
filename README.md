@@ -33,4 +33,11 @@ This is my first git repository
      - got clarity about what project to do
   - 7/02/2026
      - Starting my day to practice a good full stack project called NOTES APP
+  - 10/2/2026
+     - i have started linkedlist concepts
+     - i have started oops concepts
+  - 11/2/2026
+     - cuurent was gone but did one problem
+  - 12/02/2026
+     - i have started notes-app project only frontend
      
