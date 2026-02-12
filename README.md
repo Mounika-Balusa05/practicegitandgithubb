@@ -2,7 +2,7 @@
 This is my first git repository
  author mounika balusa..
 
- I will give you my dailt work details:
+ I will give you my daily work details:
 
 
  - 2/02/2026
